@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_intents</string>
+    <string name="button_expl_intent">Tab to type text</string>
+    <string name="button_impl_intent">List all main activities on OS</string>
+    <string name="button_select_photo">Select a photo from galery</string>
+    <string name="button_share_message">Share</string>
+    <string name="hint_type_text">Type text:</string>
+</resources>
